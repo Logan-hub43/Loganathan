@@ -36,7 +36,7 @@
 ## 👨‍💻 About Me
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-   I am a **passionate Java Developer** with strong knowledge of **Core Java, OOP, Collections, JDBC, SQL**, and hands-on experience in **Spring Boot** and **ReactJS**.
+I am a **passionate Java Developer** with strong knowledge of **Core Java, OOP, Collections, JDBC, SQL**, and hands-on experience in **Spring Boot** and **ReactJS**.
 
 I enjoy building **real-world software solutions**, writing **clean and maintainable code**, and continuously improving my **problem-solving skills**.  
 My career goal is to grow as a **Full Stack Java Developer** and contribute to impactful, scalable applications.
